@@ -1,0 +1,31 @@
+table {
+  border-collapse: collapse;
+}
+.bluee{
+  background-color: #1E90FF;
+}
+.time{
+  background-color: #6495ED;
+}
+.purple{
+  background-color: #9370DB;
+}
+
+.green{
+  background-color: #32CD32;
+}
+.lblue{
+  background-color: #87CEEB;
+}
+.yellow{
+  background-color: #FFD700;
+}
+.pink{
+  background-color: #FA8072;
+}
+.orange{
+  background-color: #DAA520;
+}
+.red{
+  background-color: #FF0000;
+}
